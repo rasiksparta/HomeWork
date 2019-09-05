@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using Calculator;
+using CalculatorDLL;
 
 namespace CalculatorWPFApp
 {
@@ -29,6 +29,12 @@ namespace CalculatorWPFApp
         }
 
         double firstNumber, secondNumber;
+
+        private void Operation_choice_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             try
@@ -92,7 +98,16 @@ namespace CalculatorWPFApp
                     break;
             }
 
-            result_box.Text = result.ToString().Substring(0, 13);
+            string resultString = result.ToString();
+            
+            if(resultString.Length < 14)
+            {
+                result_box.Text = resultString;
+            }
+            else
+            {
+                result_box.Text = result.ToString().Substring(0, 13);
+            }
         }
     }
 }

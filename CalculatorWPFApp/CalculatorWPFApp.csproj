@@ -95,6 +95,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CalculatorDLL\CalculatorDLL.csproj">
+      <Project>{38a258a7-ce65-4772-a432-2ddbf4009101}</Project>
+      <Name>CalculatorDLL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Calculator\Calculator.csproj">
       <Project>{6d9655a8-f949-4c7f-a336-f8a98206ad58}</Project>
       <Name>Calculator</Name>

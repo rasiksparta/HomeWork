@@ -36,3 +36,5 @@ C:\Users\Rasik Rana\Desktop\csharp\weekfour\daythree\HomeWork\CalculatorWPFApp\o
 C:\Users\Rasik Rana\Desktop\csharp\weekfour\daythree\HomeWork\CalculatorWPFApp\obj\Debug\CalculatorWPFApp.csproj.CopyComplete
 C:\Users\Rasik Rana\Desktop\csharp\weekfour\daythree\HomeWork\CalculatorWPFApp\obj\Debug\CalculatorWPFApp.exe
 C:\Users\Rasik Rana\Desktop\csharp\weekfour\daythree\HomeWork\CalculatorWPFApp\obj\Debug\CalculatorWPFApp.pdb
+C:\Users\Rasik Rana\Desktop\csharp\weekfour\daythree\HomeWork\CalculatorWPFApp\bin\Debug\CalculatorDLL.dll
+C:\Users\Rasik Rana\Desktop\csharp\weekfour\daythree\HomeWork\CalculatorWPFApp\bin\Debug\CalculatorDLL.pdb

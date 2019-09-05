@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTest", "..\Calcul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUITest", "..\GUITest\GUITest.csproj", "{FB79B10C-3068-4166-9E7D-4CEC3D7D8BB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorDLL", "..\CalculatorDLL\CalculatorDLL.csproj", "{38A258A7-CE65-4772-A432-2DDBF4009101}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FB79B10C-3068-4166-9E7D-4CEC3D7D8BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB79B10C-3068-4166-9E7D-4CEC3D7D8BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB79B10C-3068-4166-9E7D-4CEC3D7D8BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38A258A7-CE65-4772-A432-2DDBF4009101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A258A7-CE65-4772-A432-2DDBF4009101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A258A7-CE65-4772-A432-2DDBF4009101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A258A7-CE65-4772-A432-2DDBF4009101}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
