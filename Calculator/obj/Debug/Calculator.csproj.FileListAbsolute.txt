@@ -1,0 +1,7 @@
+C:\Users\Rasik Rana\Desktop\csharp\weekfour\daythree\CalculatorWPFApp\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Rasik Rana\Desktop\csharp\weekfour\daythree\CalculatorWPFApp\Calculator\bin\Debug\Calculator.exe
+C:\Users\Rasik Rana\Desktop\csharp\weekfour\daythree\CalculatorWPFApp\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Rasik Rana\Desktop\csharp\weekfour\daythree\CalculatorWPFApp\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Rasik Rana\Desktop\csharp\weekfour\daythree\CalculatorWPFApp\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Rasik Rana\Desktop\csharp\weekfour\daythree\CalculatorWPFApp\Calculator\obj\Debug\Calculator.exe
+C:\Users\Rasik Rana\Desktop\csharp\weekfour\daythree\CalculatorWPFApp\Calculator\obj\Debug\Calculator.pdb
